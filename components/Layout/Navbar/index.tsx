@@ -115,7 +115,7 @@ export const Navbar: FC = () => {
                   <div className="row justify-content-center align-items-end pt-4">
                     {/* add  carousel here */}
                     <div
-                      className="col-md-4"
+                      className={`col-md-4 ${styles['owl-container']}`}
                       style={{
                         // paddingRight: '2rem',
                         width: '24rem',

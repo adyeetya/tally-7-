@@ -6,7 +6,7 @@ import Link from 'next/link'
 export const Company: FC = () => {
   return (
     <>
-      <section
+      {/* <section
         className="page-title parallaxie"
         data-bg-img="/images/08.jpg"
         style={{
@@ -34,7 +34,7 @@ export const Company: FC = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       <section className="pb-3">
         <div className="container">
           <div className="row justify-content-center flex-flow-row-reverse">

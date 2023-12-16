@@ -2,7 +2,7 @@
 import React from 'react'
 import { useSpring, animated } from 'react-spring'
 import { useInView } from 'react-intersection-observer'
-
+import styles from './image.module.css'
 const ScrollFlashyImage: React.FC = () => {
   const [ref, inView] = useInView()
 
@@ -19,15 +19,15 @@ const ScrollFlashyImage: React.FC = () => {
     <div
       ref={ref}
       style={{ height: '500px' /* add a height to create a scrollable area */ }}
+      className={styles['container']}
     >
       <animated.img
         src="/images/footer-rock.png"
         width={200}
         style={{
-          filter: 'invert(0)',
-          marginTop: '40px',
           ...verticalBounce,
         }}
+        className={styles['animated-img']}
       />
     </div>
   )

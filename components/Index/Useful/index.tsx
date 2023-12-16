@@ -1,6 +1,7 @@
 import { FC } from 'react'
 import FeatureProjects from '../FeatureProjects'
 import Link from 'next/link'
+import { Check } from 'lucide-react'
 
 export const Useful: FC = () => {
   return (
@@ -583,40 +584,40 @@ export const Useful: FC = () => {
                 </p>
                 <ul className="list-unstyled list-icon">
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     School fee management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Nursing home management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Logistics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Temples &amp; Trusts Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Jewellery Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Hospitals &amp; Clinics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Chit fund Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Material requirement planning for manufactures &amp; many
                     more
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Industrial Management through User friendly accounting
                     Strategies
                   </li>
@@ -641,40 +642,40 @@ export const Useful: FC = () => {
                 </p>
                 <ul className="list-unstyled list-icon">
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     School fee management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Nursing home management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Logistics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Temples &amp; Trusts Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Jewellery Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Hospitals &amp; Clinics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Chit fund Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Material requirement planning for manufactures &amp; many
                     more
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Industrial Management through User friendly accounting
                     Strategies
                   </li>
@@ -699,40 +700,40 @@ export const Useful: FC = () => {
                 </p>
                 <ul className="list-unstyled list-icon">
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     School fee management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Nursing home management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Logistics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Temples &amp; Trusts Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Jewellery Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Hospitals &amp; Clinics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Chit fund Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Material requirement planning for manufactures &amp; many
                     more
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Industrial Management through User friendly accounting
                     Strategies
                   </li>
@@ -757,40 +758,40 @@ export const Useful: FC = () => {
                 </p>
                 <ul className="list-unstyled list-icon">
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     School fee management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Nursing home management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Logistics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Temples &amp; Trusts Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Jewellery Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Hospitals &amp; Clinics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Chit fund Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Material requirement planning for manufactures &amp; many
                     more
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Industrial Management through User friendly accounting
                     Strategies
                   </li>
@@ -815,40 +816,40 @@ export const Useful: FC = () => {
                 </p>
                 <ul className="list-unstyled list-icon">
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     School fee management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Nursing home management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Logistics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Temples &amp; Trusts Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Jewellery Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Hospitals &amp; Clinics Management
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Chit fund Management System
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Material requirement planning for manufactures &amp; many
                     more
                   </li>
                   <li className="mb-3">
-                    <i className="flaticon-tick" />
+                    <Check />
                     Industrial Management through User friendly accounting
                     Strategies
                   </li>
