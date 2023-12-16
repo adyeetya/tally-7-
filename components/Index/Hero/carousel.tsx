@@ -3,7 +3,8 @@ import styles from './hero.module.css'
 import Link from 'next/link'
 function UncontrolledExample() {
   return (
-    <Carousel>
+  <> 
+  <Carousel>
       <Carousel.Item>
         <div className={styles['container']}>
           <div className={styles['left-content']}>
@@ -255,6 +256,7 @@ function UncontrolledExample() {
         </div>
       </Carousel.Item>
     </Carousel>
+    </> 
   )
 }
 

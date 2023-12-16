@@ -52,6 +52,7 @@ const ResponsiveCarousel = () => {
   }
 
   return (
+    <>
     <div className={styles['responsive-carousel']}>
       {slides.map((slide, index) => (
         <Paper
@@ -124,6 +125,7 @@ const ResponsiveCarousel = () => {
         <KeyboardArrowRight />
       </Button>
     </div>
+    </>
   )
 }
 
