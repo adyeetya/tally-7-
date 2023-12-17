@@ -367,6 +367,12 @@ section {
   height: 100%;
 }
 
+@media (max-width:640px) {
+  #site-header{
+    display: none;
+  }
+}
+
 /* -------------------------------
    Background Position & Size
 -------------------------------*/
@@ -2064,4 +2070,48 @@ input.form-product {
   .flex-flow-row-reverse {
     flex-flow: column-reverse;
   }
+}
+
+.mobile-view{
+  display: none;
+}
+.mob-he{
+background-color: red;
+text-align: center;
+color: white;
+}
+.mob-he h1 {
+  font-size: 20px;
+  padding: 5px;
+}
+
+@media (max-width:640px) {
+  
+  .mobile-view{
+    display: inline;
+  }
+}
+
+.logo{
+  height: 90px;
+  width: 90px;
+}
+
+.bottom-menu{
+  display: flex;
+  
+  background-color: #00000061;
+}
+.NavbarCondition{
+  position: relative;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.NavBarcaraousel{
+  padding-top: 20px;
+  margin-left: -20px;
+  height: 40px;
+}
+.navbar-icon{
+  background-image: url("https://icons8.com/icon/eofQ1g5BaAx6/menu");
 }

@@ -51,7 +51,7 @@ const RapidResponseCenter = () => {
         <a
           className="btn"
           style={{
-            color: 'white',
+            color: 'blue',
             fontSize: '12px',
             padding: '0px',
             marginTop: '-5px',
@@ -121,20 +121,22 @@ const ConditionNavbar = () => {
   // Normal Navbar for larger screens
   const largeNavbar = (
     <nav
-      className={`navbar navbar-expand-lg navbar-light bg-light ${
+      className={`navbar navbar-expand-lg navbar-light bg-light rounded-full ${
         isSticky ? 'fixed-top' : ''
       }`}
     >
-      <button
-        className="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span className="navbar-toggler-icon"></span>
+     <button
+  className="navbar-toggler"
+  type="button"
+  data-toggle="collapse"
+  data-target="#navbarSupportedContent"
+  aria-controls="navbarSupportedContent"
+  aria-expanded="false"
+  aria-label="Toggle navigation"
+  style={{ backgroundColor: '#ffff', borderRadius:'50px'}}
+>
+ 
+        <span className="navbar-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav w-100 justify-content-center">
